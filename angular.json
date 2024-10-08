@@ -94,6 +94,7 @@
             ],
             "scripts": []
           }
+<<<<<<< HEAD
         },
         "e2e": {
           "builder": "playwright-ng-schematics:playwright"
@@ -105,3 +106,10 @@
     "analytics": "858d64bd-6067-4389-b95e-09f3796fd4fb"
   }
 }
+=======
+        }
+      }
+    }
+  }
+}
+>>>>>>> efad6bef926138a4d816821e94190e413214e638

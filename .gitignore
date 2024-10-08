@@ -40,8 +40,11 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 
 # Playwright
 /test-results/
 /playwright-report/
 /playwright/.cache/
+=======
+>>>>>>> efad6bef926138a4d816821e94190e413214e638
